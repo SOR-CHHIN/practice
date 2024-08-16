@@ -1,0 +1,100 @@
+.header{
+    display: flex;
+    background-color: blue;
+    border: 2px outset black;
+    justify-content: center;
+    height:50px;
+    align-items: center;
+    width: 98%;
+    margin:  9px ;
+    color: #fff;
+    margin-right: px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+    
+   
+    
+}
+.sidebar{
+    background-color: aqua;
+    width: 20%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 10px 0px 9px ;
+    color: #fff;
+    border: 2px outset black;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+}
+main{
+    flex: 2;
+     
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.flexbox-content{
+   display: flex;
+    flex-wrap: wrap;
+    
+}
+.Content-1{
+    display: flex;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+    border: 2px outset black;
+    background-color: blue;
+   margin-right: 10px;
+    justify-content: center;
+    width: 99%;
+    height: 140px;
+    align-items: center;
+    color: #fff;
+
+}
+.content-2{
+    display: flex;
+    background-color: blue;
+    border: 2px outset black;
+    justify-content: center;
+    height: 146px;
+    margin:  10px 10px 10px 0px;
+    width: 48%;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+    align-items: center;
+    color: #fff;
+    
+
+}
+.content-3{
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    
+    margin:  10px 10px 10px 0px;
+    width: 49%;
+    height: 146px;
+    border: 2px outset black;
+    align-items: center;
+    color: #fff;
+   margin-right: 5px;
+   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+    
+}
+.footer{
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+  
+    margin: 0px 10px 10px 10px;
+    color: #fff;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.253);
+    border: 2px outset black;
+    width: 98%;
+   
+}
+.main{
+    border: 2px outset black;
+    background-color: rgb(53, 54, 54);
+}
